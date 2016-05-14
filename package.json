@@ -1,0 +1,21 @@
+{
+  "name": "redis.loadscripts",
+  "version": "0.1.0",
+  "description": "script loader that allows require() from lua scripts in redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "lua",
+    "script",
+    "loader"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/redis.loadscripts"
+  }
+}
