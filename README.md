@@ -1,4 +1,4 @@
-# redis.loadscripts
+# redis-load-scripts
 
 Naive script loader that allows require() from lua scripts in redis
 
