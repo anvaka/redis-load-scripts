@@ -1,6 +1,6 @@
 {
   "name": "redis-load-scripts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "naive redis script loader that allows require() another lua script from redis",
   "main": "index.js",
   "scripts": {
